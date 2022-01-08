@@ -1,7 +1,7 @@
 
 # Query Builder
 
-A QueryBuilder project created in flutter using MobX and Provider. Boilerplate supports  mobile, is used to filter list o user
+A QueryBuilder project created in flutter using MobX and Provider. QueryBuilder supports  mobile, is used to filter list of user
 
 
 ## Acknowledgements
