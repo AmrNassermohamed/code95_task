@@ -1,15 +1,15 @@
 
 # Query Builder
 
-A QueryBuilder project created in flutter using MobX and Provider. QueryBuilder supports  mobile, is used to filter list of user
+A QueryBuilder project created in flutter using  Provider, QueryBuilder is used to filter list of user
 
 
 ## Acknowledgements
 
  - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-- [Know :State mangament provider]("https://pub.dev/packages/provider")
-- [know :Resfaul Api and http]("https://pub.dev/packages/http")
+- [have a knowledge of : State mangament provider]("https://pub.dev/packages/provider")
+- [have a knowledge of : Resfaul Api and http]("https://pub.dev/packages/http")
 ## API Reference
 
 #### Get all repos
